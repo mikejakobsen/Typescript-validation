@@ -1,7 +1,7 @@
 # Typescript validation
 
 
-![Mike](assets/mike.png)
+![Mike](http://www.mikejakobsen/mike.png)
 
 I'm currently trying to learn typescript and Angular2.
 
